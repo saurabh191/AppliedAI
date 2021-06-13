@@ -1,2 +1,2 @@
 # AppliedAI
-Problems solution for AppliedAI
+Solving Machine Learning/Deep Learning problems of AppliedAI.
